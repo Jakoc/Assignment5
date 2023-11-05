@@ -9,6 +9,7 @@ public class MainMenu extends Menu {
         this.personManager = personManager;
     }
 
+    //tilføjede noget ondt logik som kun virker for student >:)
     @Override
     protected void doAction(int option) {
         Scanner scanner = new Scanner(System.in);

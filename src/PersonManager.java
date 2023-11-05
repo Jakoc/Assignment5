@@ -57,16 +57,9 @@ public class PersonManager {
         }
         return teachers;
     }
-
+    //ved stadig ikke hvad det her til for
     public void operation(String operationType) {
 
-        if (operationType.equals("operation1")) {
-
-        } else if (operationType.equals("operation2")) {
-
-        } else {
-            // Handle other cases or perform default operations
-        }
     }
 }
 
