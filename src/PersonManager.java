@@ -22,6 +22,7 @@ public class PersonManager {
             persons.add(p);
         }
     }
+    //personManager.removePerson(ID); i test
     public void removePerson(int id) {
         Person personToRemove = null;
         for (Person p : persons) {

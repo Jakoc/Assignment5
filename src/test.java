@@ -15,6 +15,7 @@ public class test {
         personManager.addPerson(student);
         personManager.addPerson(teacher);
 
+
         List<Person> allPersons = personManager.getAllPersons();
         List<Student> allStudents = personManager.getAllStudents();
         List<Teacher> allTeachers = personManager.getAllTeachers();

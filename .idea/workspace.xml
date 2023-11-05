@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8fd5dab-aaf5-4edb-ac9e-d6bbd1d5eb88" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f8fd5dab-aaf5-4edb-ac9e-d6bbd1d5eb88" name="Changes" comment="noter">
       <change beforePath="$PROJECT_DIR$/src/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PersonManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +59,33 @@
       <option name="presentableId" value="Default" />
       <updated>1698742016047</updated>
       <workItem from="1698742017050" duration="672000" />
-      <workItem from="1699004513667" duration="15478000" />
+      <workItem from="1699004513667" duration="15973000" />
     </task>
+    <task id="LOCAL-00001" summary="Hov glemte test class">
+      <option name="closed" value="true" />
+      <created>1699198755032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699198755032</updated>
+    </task>
+    <task id="LOCAL-00002" summary="noter">
+      <option name="closed" value="true" />
+      <created>1699198902912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699198902912</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hov glemte test class" />
+    <MESSAGE value="noter" />
+    <option name="LAST_COMMIT_MESSAGE" value="noter" />
   </component>
 </project>

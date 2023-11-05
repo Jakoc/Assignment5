@@ -5,7 +5,7 @@ public class MainMenu extends Menu {
     private PersonManager personManager;
 
     public MainMenu(PersonManager personManager) {
-        super("Main Menu", "Add Student", "Add Teacher", "Show all");
+        super("Main Menu", "Add Student", "Add Teacher", "Show all", "option 4");
         this.personManager = personManager;
     }
 
@@ -56,6 +56,10 @@ public class MainMenu extends Menu {
                         System.out.println("Person - ID: " + p.getId() + ", Name: " + p.getName());
                     }
                 }
+                break;
+            case 4:
+                System.out.println("Option 4 was selected");
+                pause();
                 break;
             case 0:
                 System.out.println("Exiting the menu.");

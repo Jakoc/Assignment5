@@ -111,12 +111,9 @@ public abstract class Menu {
     /**
      * Clears the screen by writing several empty lines.
      */
+    //????????
     protected void clear()
     {
-        // Implementation to clear the console screen
-        // This varies based on different environments
-        System.out.print("\033[H\033[2J");
-        System.out.flush();
     }
 }
 
